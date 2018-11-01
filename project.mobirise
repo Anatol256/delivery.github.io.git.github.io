@@ -1,0 +1,413 @@
+{
+  "settings": {
+    "name": "Site-10-31_1939",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#ff0000"
+      ]
+    },
+    "versionFirst": "4.3.4",
+    "uniqCompNum": 21,
+    "versionPublish": "4.3.4"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/tPSJrRDljjo?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/tPSJrRDljjo",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.2"
+          },
+          "title": "Сервис по доставке продуктов с минимальными затратами на логистику &nbsp;&nbsp;",
+          "text": "&nbsp;Прочтите маленький бизнес план по организации доставки продуктов и помогите понять, нужен ли этот проект людям или нет.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-0",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "48px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ff0000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ВВЕДЕНИЕ",
+          "text": "Откуда ко мне пришла эта идея и почему я верю в нее.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "4",
+            "bgColor": "#ff0000"
+          },
+          "text": "<p>Очень давно я горю желанием помочь всем и сразу, но все идеи которые подходили по этому критерию оставались на уровне фантазии.</p><p>Так как для их осуществления требовались немалые вложения, которые отсутсовали. Но вот одним днем, я наткнулся на сервис Толока от яндекса. Там пользователи должны были ходить по городу, выполнять задания и получать за это деньги. И вот возникла идея на базе этой схемы организовать доставку.&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-size": "17px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Как будет осуществляться доставка?",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-b"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Схема выполнения доставки:\n</p><p>1. Клиент состовляет список продуктов.\n</p><p>2. Выбирает магазин.\n</p><p>3. Сервис ищет подходящих курьеров.\n</p><p>4. Курьер собирает продукты.\n</p><p>5. Паралельно внося сцену под каждое наименование.\n</p><p>6. Сформированный чек отправляется клиенту.\n</p><p>7. Клиент оплачивает.\n</p><p>8. На кассе курьер оплачивает продукты за свои деньги.\n</p><p>9. Курьер доставляет продукты по адресу.\n</p><p>10. Система перечисляет деньги из суммы которую оплатил клиент по заранее созданному чеку. Деньги перечисляются курьеру в размере той суммы которая указана на чеке из магазина. \n</p><p>11. Из суммы заранее сформированного чека вычитается сумма чека из магазина и полученная разность отправляется обратно клиенту, так мы избежим проблем с ошибками при вводе цен.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-e",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><b>Предоплата</b> нужна чтобы избежать недобросовестных клиентов и дабы работа курьера не была ему в убыток.\n</p><p><span style=\"font-size: 1.09rem;\">Предоплата может и не вносится, если клиент уже заказывал доставку и все прошло успешно.</span></p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-f"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><b>Пункт 3: </b></p><p>\n<span style=\"font-size: 1.09rem;\">Здесь есть несколько вариантов поиска.&nbsp;</span></p><p><span style=\"font-size: 1.09rem;\">1. Курьеры поблизости. Курьеры в радиусе 600м или 1000 м.</span></p><p><span style=\"font-size: 1.09rem;\">2. Курьеры с авто. Например для поездок в далёкие гипермаркеты.</span></p><p><span style=\"font-size: 1.09rem;\">Для начала мы запустим только 1 вариант. И только потом будем развивать 2.</span></p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-g"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><b>Качество и скорость доставки.\n</b></p><p><span style=\"font-size: 1.09rem;\">За это будет отвечать система поощрений.&nbsp;</span></p><p><span style=\"font-size: 1.09rem;\">После каждого выполненого задания курьер будет получать рейтинг.&nbsp;</span></p><p><span style=\"font-size: 1.09rem;\">По итогам недели, больший рейтинг получит процент от заработанных за эту неделю денег.&nbsp;</span></p><p><span style=\"font-size: 1.09rem;\">Так мы добьемся большей отдачи в работе курьеров.</span></p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-h"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "title": "Конкуренция",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-8"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<p>Конкуренты в этой области имеются, но мы сможем конкурировать с ними, даже если у них есть собственный автопарк и договоры с гипермаркетами.</p><p>Одним из таких соперников является igooods.ru. Но схема по которой он работает требует большого количества времени и вложений в каждом городе и это их проблема. Ведь чтобы он начал работать, компании занимающейся этим сервисом нужно заключить договор с каждым гипермаркетом, далее закупить электроскутеры и нанять специалистов для их обслуживания, а также нанять курьеров и &nbsp;\"персональных закупщиков\". Именно поэтому, данная услуга дотупна только в 4 городах России.</p><p>На рынке имеются похожие проекты, но igooods единственный, кто полностью подходит под нашу тематику.</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-7",
+          "_styles": {
+            "P": {
+              "font-size": "17px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Преимущества",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-i"
+        },
+        {
+          "_inherit": "features3",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "paper-plane",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "#ff0000"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "numbered-list",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ff0000"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "pencil",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ff0000"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "title1": "Без границ",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Для каждого города потребуется несколько десятков курьеров, но это не преграда, так как вопрос разрешится после запуска рекламы.<br>Поэтому мы сможем охватить все больше городов используя эту систему.",
+          "title2": "Минимум пунктов для достижения цели",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Нет необходимости закупать дополнительное оборудование, ведь все это разрешимо. В наших силах найти курьера с автомобилем и предложить ему более привликательные тарифы, нежели пешиму курьеру. Чтобы тот доставлял продукты в дальние уголки города.&nbsp;<br><br>",
+          "title3": "Без договоров",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Не нужно подписывать договора с магазинами. Ведь возврат продуктов не нужен, если будут прописаны четкие правила по возврату продуктов.<br>А недоброжилательных клиентов можно \"отсеять\" используя предоплату.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_name": "features6",
+          "_anchor": "features6-j"
+        }
+      ]
+    }
+  }
+}
